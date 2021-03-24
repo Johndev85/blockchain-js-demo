@@ -1,0 +1,15 @@
+{
+    "name": "Blockchain-js",
+    "version": "1.0.0",
+    "description": "Blockchain demo JS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "JohnB",
+    "license": "MIT",
+    "dependencies": {
+        "crypto-js": "4.0.0"
+    }
+}
